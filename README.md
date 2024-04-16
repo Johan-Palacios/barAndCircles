@@ -1,6 +1,6 @@
 # Bar And Circles
 # Description es
-Boock: Java cómo programar, 10ed - Deitel & Deitel 2016
+Book: Java cómo programar, 10ed - Deitel & Deitel 2016
 Ejercicios del caso de estudio de GUI y gráficos 
 
 ## Ejercicio 5.1
